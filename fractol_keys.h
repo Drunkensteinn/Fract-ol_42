@@ -6,12 +6,12 @@
 /*   By: ablizniu <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/01/17 19:15:44 by ablizniu          #+#    #+#             */
-/*   Updated: 2019/01/23 16:31:31 by ablizniu         ###   ########.fr       */
+/*   Updated: 2019/01/23 16:31:57 by ablizniu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FRACTOL_KEYS_H
-#define FRACTOL_KEYS_H
+# define FRACTOL_KEYS_H
 
 # define MWHEEL_UP		5
 

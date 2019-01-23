@@ -6,6 +6,11 @@ CMakeFiles/Fract_ol.dir/bonus_fractals.c.o: ../fractol.h
 CMakeFiles/Fract_ol.dir/bonus_fractals.c.o: ../fractol_keys.h
 CMakeFiles/Fract_ol.dir/bonus_fractals.c.o: ../libft/libft.h
 
+CMakeFiles/Fract_ol.dir/clean.c.o: ../clean.c
+CMakeFiles/Fract_ol.dir/clean.c.o: ../fractol.h
+CMakeFiles/Fract_ol.dir/clean.c.o: ../fractol_keys.h
+CMakeFiles/Fract_ol.dir/clean.c.o: ../libft/libft.h
+
 CMakeFiles/Fract_ol.dir/colors.c.o: ../colors.c
 CMakeFiles/Fract_ol.dir/colors.c.o: ../fractol.h
 CMakeFiles/Fract_ol.dir/colors.c.o: ../fractol_keys.h
@@ -26,10 +31,20 @@ CMakeFiles/Fract_ol.dir/init.c.o: ../fractol_keys.h
 CMakeFiles/Fract_ol.dir/init.c.o: ../init.c
 CMakeFiles/Fract_ol.dir/init.c.o: ../libft/libft.h
 
+CMakeFiles/Fract_ol.dir/init_norme.c.o: ../fractol.h
+CMakeFiles/Fract_ol.dir/init_norme.c.o: ../fractol_keys.h
+CMakeFiles/Fract_ol.dir/init_norme.c.o: ../init_norme.c
+CMakeFiles/Fract_ol.dir/init_norme.c.o: ../libft/libft.h
+
 CMakeFiles/Fract_ol.dir/key_events.c.o: ../fractol.h
 CMakeFiles/Fract_ol.dir/key_events.c.o: ../fractol_keys.h
 CMakeFiles/Fract_ol.dir/key_events.c.o: ../key_events.c
 CMakeFiles/Fract_ol.dir/key_events.c.o: ../libft/libft.h
+
+CMakeFiles/Fract_ol.dir/key_utils.c.o: ../fractol.h
+CMakeFiles/Fract_ol.dir/key_utils.c.o: ../fractol_keys.h
+CMakeFiles/Fract_ol.dir/key_utils.c.o: ../key_utils.c
+CMakeFiles/Fract_ol.dir/key_utils.c.o: ../libft/libft.h
 
 CMakeFiles/Fract_ol.dir/main.c.o: ../fractol.h
 CMakeFiles/Fract_ol.dir/main.c.o: ../fractol_keys.h

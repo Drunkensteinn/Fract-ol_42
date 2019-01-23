@@ -298,6 +298,33 @@ init.c.s:
 	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init.c.s
 .PHONY : init.c.s
 
+init_norme.o: init_norme.c.o
+
+.PHONY : init_norme.o
+
+# target to build an object file
+init_norme.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init_norme.c.o
+.PHONY : init_norme.c.o
+
+init_norme.i: init_norme.c.i
+
+.PHONY : init_norme.i
+
+# target to preprocess a source file
+init_norme.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init_norme.c.i
+.PHONY : init_norme.c.i
+
+init_norme.s: init_norme.c.s
+
+.PHONY : init_norme.s
+
+# target to generate assembly for a file
+init_norme.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init_norme.c.s
+.PHONY : init_norme.c.s
+
 key_events.o: key_events.c.o
 
 .PHONY : key_events.o
@@ -324,6 +351,33 @@ key_events.s: key_events.c.s
 key_events.c.s:
 	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_events.c.s
 .PHONY : key_events.c.s
+
+key_utils.o: key_utils.c.o
+
+.PHONY : key_utils.o
+
+# target to build an object file
+key_utils.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_utils.c.o
+.PHONY : key_utils.c.o
+
+key_utils.i: key_utils.c.i
+
+.PHONY : key_utils.i
+
+# target to preprocess a source file
+key_utils.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_utils.c.i
+.PHONY : key_utils.c.i
+
+key_utils.s: key_utils.c.s
+
+.PHONY : key_utils.s
+
+# target to generate assembly for a file
+key_utils.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_utils.c.s
+.PHONY : key_utils.c.s
 
 libft/ft_atoi.o: libft/ft_atoi.c.o
 
@@ -2216,9 +2270,15 @@ help:
 	@echo "... init.o"
 	@echo "... init.i"
 	@echo "... init.s"
+	@echo "... init_norme.o"
+	@echo "... init_norme.i"
+	@echo "... init_norme.s"
 	@echo "... key_events.o"
 	@echo "... key_events.i"
 	@echo "... key_events.s"
+	@echo "... key_utils.o"
+	@echo "... key_utils.i"
+	@echo "... key_utils.s"
 	@echo "... libft/ft_atoi.o"
 	@echo "... libft/ft_atoi.i"
 	@echo "... libft/ft_atoi.s"

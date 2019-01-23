@@ -6,62 +6,64 @@
 /*   By: ablizniu <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/01/21 20:56:40 by ablizniu          #+#    #+#             */
-/*   Updated: 2019/01/22 21:45:55 by ablizniu         ###   ########.fr       */
+/*   Updated: 2019/01/23 21:44:15 by ablizniu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "fractol.h"
 
-inline t_complex fractal_tricorn_mandelbrot(t_fractal *fractal)
+inline t_complex	fractal_tricorn_mandelbrot(t_fractal *fractal)
 {
-	t_complex constanta;
+	t_complex	constanta;
 
 	constanta.im = -2 * fractal->z.re * fractal->z.im + fractal->c.im;
 	constanta.re = fractal->z_in_pow.re - fractal->z_in_pow.im + fractal->c.re;
 	return (constanta);
 }
 
-inline t_complex fractal_batman(t_fractal *fractal)
+inline t_complex	fractal_batman(t_fractal *fractal)
 {
 	t_complex	constanta;
 
-	constanta.re = (fractal->z.im * fractal->z.im - fractal->z.re * fractal->z.re) + fractal->c.re;
+	constanta.re = (fractal->z.im * fractal->z.im -
+			fractal->z.re * fractal->z.re) + fractal->c.re;
 	constanta.im = (5 * fractal->z.im) * fractal->z.re + fractal->c.im;
 	return (constanta);
 }
 
-inline t_complex fractal_mandelbrot_3x(t_fractal *fractal)
+inline t_complex	fractal_mandelbrot_3x(t_fractal *fractal)
 {
 	t_complex	constanta;
 
-	constanta.im = 4 * fractal->z.re * fractal->z.im * (fractal->z_in_pow.re - fractal->z_in_pow.im) + fractal->c.im;
-	constanta.re = (fractal->z_in_pow.re * fractal->z_in_pow.re + fractal->z_in_pow.im * fractal->z_in_pow.im) - 6 * fractal->z_in_pow.re * fractal->z_in_pow.im + fractal->c.re;
+	constanta.im = 4 * fractal->z.re * fractal->z.im *
+			(fractal->z_in_pow.re - fractal->z_in_pow.im) + fractal->c.im;
+	constanta.re = (fractal->z_in_pow.re * fractal->z_in_pow.re +
+			fractal->z_in_pow.im * fractal->z_in_pow.im) - 6 *
+					fractal->z_in_pow.re * fractal->z_in_pow.im +
+					fractal->c.re;
 	return (constanta);
 }
 
-
-inline t_complex fractal_celtick_mandelbrot(t_fractal *fractal)
+inline t_complex	fractal_celtick_mandelbrot(t_fractal *fractal)
 {
 	t_complex	constanta;
 
 	constanta.im = 2.0 * fractal->z.re * fractal->z.im + fractal->c.im;
-	constanta.re = FT_ABS(fractal->z_in_pow.re - fractal->z_in_pow.im) + fractal->c.re;
+	constanta.re = FT_ABS(fractal->z_in_pow.re -
+			fractal->z_in_pow.im) + fractal->c.re;
 	return (constanta);
 }
 
-inline t_complex fractal_custom(t_fractal *fractal)
+inline t_complex	fractal_custom(t_fractal *fractal)
 {
 	t_complex	constanta;
 
-	constanta.im = 4 * fractal->z.re * fractal->z.im * (fractal->z_in_pow.re - fractal->z_in_pow.im) + fractal->julias_const.im;
-	constanta.re = (fractal->z_in_pow.re * fractal->z_in_pow.re + fractal->z_in_pow.im * fractal->z_in_pow.im) - 6 * fractal->z_in_pow.re * fractal->z_in_pow.im + fractal->julias_const.re;
+	constanta.im = 4 * fractal->z.re * fractal->z.im *
+			(fractal->z_in_pow.re - fractal->z_in_pow.im) +
+			fractal->julias_const.im;
+	constanta.re = (fractal->z_in_pow.re * fractal->z_in_pow.re +
+			fractal->z_in_pow.im * fractal->z_in_pow.im) - 6 *
+					fractal->z_in_pow.re * fractal->z_in_pow.im +
+					fractal->julias_const.re;
 	return (constanta);
 }
-
-
-/*
- *
-		hiro->z.re = (double)(hiro->z.im * hiro->z.im) - (double)(hiro->z.re * hiro->z.re) + hiro->c.re;
-
-		hiro->z.im = (double)(5 * hiro->z.im) * tmp + hiro->c.im;
- */

@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Fract_ol.dir/bonus_fractals.c.o"
   "CMakeFiles/Fract_ol.dir/fractal.c.o"
   "CMakeFiles/Fract_ol.dir/clean.c.o"
+  "CMakeFiles/Fract_ol.dir/key_utils.c.o"
+  "CMakeFiles/Fract_ol.dir/init_norme.c.o"
   "Fract_ol.pdb"
   "Fract_ol"
 )

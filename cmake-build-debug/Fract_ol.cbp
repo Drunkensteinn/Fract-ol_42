@@ -146,7 +146,13 @@
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/init.c">
 			<Option target="Fract_ol"/>
 		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/init_norme.c">
+			<Option target="Fract_ol"/>
+		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/key_events.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/key_utils.c">
 			<Option target="Fract_ol"/>
 		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/libft/ft_atoi.c">
