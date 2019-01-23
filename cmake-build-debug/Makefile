@@ -136,32 +136,59 @@ ft/fast:
 	$(MAKE) -f CMakeFiles/ft.dir/build.make CMakeFiles/ft.dir/build
 .PHONY : ft/fast
 
-calculation.o: calculation.c.o
+bonus_fractals.o: bonus_fractals.c.o
 
-.PHONY : calculation.o
+.PHONY : bonus_fractals.o
 
 # target to build an object file
-calculation.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/calculation.c.o
-.PHONY : calculation.c.o
+bonus_fractals.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/bonus_fractals.c.o
+.PHONY : bonus_fractals.c.o
 
-calculation.i: calculation.c.i
+bonus_fractals.i: bonus_fractals.c.i
 
-.PHONY : calculation.i
+.PHONY : bonus_fractals.i
 
 # target to preprocess a source file
-calculation.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/calculation.c.i
-.PHONY : calculation.c.i
+bonus_fractals.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/bonus_fractals.c.i
+.PHONY : bonus_fractals.c.i
 
-calculation.s: calculation.c.s
+bonus_fractals.s: bonus_fractals.c.s
 
-.PHONY : calculation.s
+.PHONY : bonus_fractals.s
 
 # target to generate assembly for a file
-calculation.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/calculation.c.s
-.PHONY : calculation.c.s
+bonus_fractals.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/bonus_fractals.c.s
+.PHONY : bonus_fractals.c.s
+
+clean.o: clean.c.o
+
+.PHONY : clean.o
+
+# target to build an object file
+clean.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/clean.c.o
+.PHONY : clean.c.o
+
+clean.i: clean.c.i
+
+.PHONY : clean.i
+
+# target to preprocess a source file
+clean.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/clean.c.i
+.PHONY : clean.c.i
+
+clean.s: clean.c.s
+
+.PHONY : clean.s
+
+# target to generate assembly for a file
+clean.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/clean.c.s
+.PHONY : clean.c.s
 
 colors.o: colors.c.o
 
@@ -217,6 +244,33 @@ drawing.c.s:
 	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/drawing.c.s
 .PHONY : drawing.c.s
 
+fractal.o: fractal.c.o
+
+.PHONY : fractal.o
+
+# target to build an object file
+fractal.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/fractal.c.o
+.PHONY : fractal.c.o
+
+fractal.i: fractal.c.i
+
+.PHONY : fractal.i
+
+# target to preprocess a source file
+fractal.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/fractal.c.i
+.PHONY : fractal.c.i
+
+fractal.s: fractal.c.s
+
+.PHONY : fractal.s
+
+# target to generate assembly for a file
+fractal.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/fractal.c.s
+.PHONY : fractal.c.s
+
 init.o: init.c.o
 
 .PHONY : init.o
@@ -243,6 +297,33 @@ init.s: init.c.s
 init.c.s:
 	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init.c.s
 .PHONY : init.c.s
+
+key_events.o: key_events.c.o
+
+.PHONY : key_events.o
+
+# target to build an object file
+key_events.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_events.c.o
+.PHONY : key_events.c.o
+
+key_events.i: key_events.c.i
+
+.PHONY : key_events.i
+
+# target to preprocess a source file
+key_events.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_events.c.i
+.PHONY : key_events.c.i
+
+key_events.s: key_events.c.s
+
+.PHONY : key_events.s
+
+# target to generate assembly for a file
+key_events.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_events.c.s
+.PHONY : key_events.c.s
 
 libft/ft_atoi.o: libft/ft_atoi.c.o
 
@@ -1999,32 +2080,59 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/main.c.s
 .PHONY : main.c.s
 
-mandelbrot.o: mandelbrot.c.o
+mandatory_fractals.o: mandatory_fractals.c.o
 
-.PHONY : mandelbrot.o
+.PHONY : mandatory_fractals.o
 
 # target to build an object file
-mandelbrot.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandelbrot.c.o
-.PHONY : mandelbrot.c.o
+mandatory_fractals.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandatory_fractals.c.o
+.PHONY : mandatory_fractals.c.o
 
-mandelbrot.i: mandelbrot.c.i
+mandatory_fractals.i: mandatory_fractals.c.i
 
-.PHONY : mandelbrot.i
+.PHONY : mandatory_fractals.i
 
 # target to preprocess a source file
-mandelbrot.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandelbrot.c.i
-.PHONY : mandelbrot.c.i
+mandatory_fractals.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandatory_fractals.c.i
+.PHONY : mandatory_fractals.c.i
 
-mandelbrot.s: mandelbrot.c.s
+mandatory_fractals.s: mandatory_fractals.c.s
 
-.PHONY : mandelbrot.s
+.PHONY : mandatory_fractals.s
 
 # target to generate assembly for a file
-mandelbrot.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandelbrot.c.s
-.PHONY : mandelbrot.c.s
+mandatory_fractals.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandatory_fractals.c.s
+.PHONY : mandatory_fractals.c.s
+
+mouse_events.o: mouse_events.c.o
+
+.PHONY : mouse_events.o
+
+# target to build an object file
+mouse_events.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mouse_events.c.o
+.PHONY : mouse_events.c.o
+
+mouse_events.i: mouse_events.c.i
+
+.PHONY : mouse_events.i
+
+# target to preprocess a source file
+mouse_events.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mouse_events.c.i
+.PHONY : mouse_events.c.i
+
+mouse_events.s: mouse_events.c.s
+
+.PHONY : mouse_events.s
+
+# target to generate assembly for a file
+mouse_events.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mouse_events.c.s
+.PHONY : mouse_events.c.s
 
 print.o: print.c.o
 
@@ -2090,18 +2198,27 @@ help:
 	@echo "... edit_cache"
 	@echo "... Fract_ol"
 	@echo "... ft"
-	@echo "... calculation.o"
-	@echo "... calculation.i"
-	@echo "... calculation.s"
+	@echo "... bonus_fractals.o"
+	@echo "... bonus_fractals.i"
+	@echo "... bonus_fractals.s"
+	@echo "... clean.o"
+	@echo "... clean.i"
+	@echo "... clean.s"
 	@echo "... colors.o"
 	@echo "... colors.i"
 	@echo "... colors.s"
 	@echo "... drawing.o"
 	@echo "... drawing.i"
 	@echo "... drawing.s"
+	@echo "... fractal.o"
+	@echo "... fractal.i"
+	@echo "... fractal.s"
 	@echo "... init.o"
 	@echo "... init.i"
 	@echo "... init.s"
+	@echo "... key_events.o"
+	@echo "... key_events.i"
+	@echo "... key_events.s"
 	@echo "... libft/ft_atoi.o"
 	@echo "... libft/ft_atoi.i"
 	@echo "... libft/ft_atoi.s"
@@ -2297,9 +2414,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... mandelbrot.o"
-	@echo "... mandelbrot.i"
-	@echo "... mandelbrot.s"
+	@echo "... mandatory_fractals.o"
+	@echo "... mandatory_fractals.i"
+	@echo "... mandatory_fractals.s"
+	@echo "... mouse_events.o"
+	@echo "... mouse_events.i"
+	@echo "... mouse_events.s"
 	@echo "... print.o"
 	@echo "... print.i"
 	@echo "... print.s"

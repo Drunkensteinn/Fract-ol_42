@@ -122,7 +122,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/calculation.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/bonus_fractals.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/clean.c">
 			<Option target="Fract_ol"/>
 		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/colors.c">
@@ -131,10 +134,19 @@
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/drawing.c">
 			<Option target="Fract_ol"/>
 		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/fractal.c">
+			<Option target="Fract_ol"/>
+		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/fractol.h">
 			<Option target="Fract_ol"/>
 		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/fractol_keys.h">
+			<Option target="Fract_ol"/>
+		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/init.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/key_events.c">
 			<Option target="Fract_ol"/>
 		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/libft/ft_atoi.c">
@@ -332,7 +344,10 @@
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/main.c">
 			<Option target="Fract_ol"/>
 		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/mandelbrot.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/mandatory_fractals.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/mouse_events.c">
 			<Option target="Fract_ol"/>
 		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/print.c">
