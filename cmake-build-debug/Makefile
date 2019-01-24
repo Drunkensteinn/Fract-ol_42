@@ -136,249 +136,6 @@ ft/fast:
 	$(MAKE) -f CMakeFiles/ft.dir/build.make CMakeFiles/ft.dir/build
 .PHONY : ft/fast
 
-bonus_fractals.o: bonus_fractals.c.o
-
-.PHONY : bonus_fractals.o
-
-# target to build an object file
-bonus_fractals.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/bonus_fractals.c.o
-.PHONY : bonus_fractals.c.o
-
-bonus_fractals.i: bonus_fractals.c.i
-
-.PHONY : bonus_fractals.i
-
-# target to preprocess a source file
-bonus_fractals.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/bonus_fractals.c.i
-.PHONY : bonus_fractals.c.i
-
-bonus_fractals.s: bonus_fractals.c.s
-
-.PHONY : bonus_fractals.s
-
-# target to generate assembly for a file
-bonus_fractals.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/bonus_fractals.c.s
-.PHONY : bonus_fractals.c.s
-
-clean.o: clean.c.o
-
-.PHONY : clean.o
-
-# target to build an object file
-clean.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/clean.c.o
-.PHONY : clean.c.o
-
-clean.i: clean.c.i
-
-.PHONY : clean.i
-
-# target to preprocess a source file
-clean.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/clean.c.i
-.PHONY : clean.c.i
-
-clean.s: clean.c.s
-
-.PHONY : clean.s
-
-# target to generate assembly for a file
-clean.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/clean.c.s
-.PHONY : clean.c.s
-
-colors.o: colors.c.o
-
-.PHONY : colors.o
-
-# target to build an object file
-colors.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/colors.c.o
-.PHONY : colors.c.o
-
-colors.i: colors.c.i
-
-.PHONY : colors.i
-
-# target to preprocess a source file
-colors.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/colors.c.i
-.PHONY : colors.c.i
-
-colors.s: colors.c.s
-
-.PHONY : colors.s
-
-# target to generate assembly for a file
-colors.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/colors.c.s
-.PHONY : colors.c.s
-
-drawing.o: drawing.c.o
-
-.PHONY : drawing.o
-
-# target to build an object file
-drawing.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/drawing.c.o
-.PHONY : drawing.c.o
-
-drawing.i: drawing.c.i
-
-.PHONY : drawing.i
-
-# target to preprocess a source file
-drawing.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/drawing.c.i
-.PHONY : drawing.c.i
-
-drawing.s: drawing.c.s
-
-.PHONY : drawing.s
-
-# target to generate assembly for a file
-drawing.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/drawing.c.s
-.PHONY : drawing.c.s
-
-fractal.o: fractal.c.o
-
-.PHONY : fractal.o
-
-# target to build an object file
-fractal.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/fractal.c.o
-.PHONY : fractal.c.o
-
-fractal.i: fractal.c.i
-
-.PHONY : fractal.i
-
-# target to preprocess a source file
-fractal.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/fractal.c.i
-.PHONY : fractal.c.i
-
-fractal.s: fractal.c.s
-
-.PHONY : fractal.s
-
-# target to generate assembly for a file
-fractal.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/fractal.c.s
-.PHONY : fractal.c.s
-
-init.o: init.c.o
-
-.PHONY : init.o
-
-# target to build an object file
-init.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init.c.o
-.PHONY : init.c.o
-
-init.i: init.c.i
-
-.PHONY : init.i
-
-# target to preprocess a source file
-init.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init.c.i
-.PHONY : init.c.i
-
-init.s: init.c.s
-
-.PHONY : init.s
-
-# target to generate assembly for a file
-init.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init.c.s
-.PHONY : init.c.s
-
-init_norme.o: init_norme.c.o
-
-.PHONY : init_norme.o
-
-# target to build an object file
-init_norme.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init_norme.c.o
-.PHONY : init_norme.c.o
-
-init_norme.i: init_norme.c.i
-
-.PHONY : init_norme.i
-
-# target to preprocess a source file
-init_norme.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init_norme.c.i
-.PHONY : init_norme.c.i
-
-init_norme.s: init_norme.c.s
-
-.PHONY : init_norme.s
-
-# target to generate assembly for a file
-init_norme.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/init_norme.c.s
-.PHONY : init_norme.c.s
-
-key_events.o: key_events.c.o
-
-.PHONY : key_events.o
-
-# target to build an object file
-key_events.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_events.c.o
-.PHONY : key_events.c.o
-
-key_events.i: key_events.c.i
-
-.PHONY : key_events.i
-
-# target to preprocess a source file
-key_events.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_events.c.i
-.PHONY : key_events.c.i
-
-key_events.s: key_events.c.s
-
-.PHONY : key_events.s
-
-# target to generate assembly for a file
-key_events.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_events.c.s
-.PHONY : key_events.c.s
-
-key_utils.o: key_utils.c.o
-
-.PHONY : key_utils.o
-
-# target to build an object file
-key_utils.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_utils.c.o
-.PHONY : key_utils.c.o
-
-key_utils.i: key_utils.c.i
-
-.PHONY : key_utils.i
-
-# target to preprocess a source file
-key_utils.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_utils.c.i
-.PHONY : key_utils.c.i
-
-key_utils.s: key_utils.c.s
-
-.PHONY : key_utils.s
-
-# target to generate assembly for a file
-key_utils.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/key_utils.c.s
-.PHONY : key_utils.c.s
-
 libft/ft_atoi.o: libft/ft_atoi.c.o
 
 .PHONY : libft/ft_atoi.o
@@ -2107,140 +1864,383 @@ libft/get_next_line.c.s:
 	$(MAKE) -f CMakeFiles/ft.dir/build.make CMakeFiles/ft.dir/libft/get_next_line.c.s
 .PHONY : libft/get_next_line.c.s
 
-main.o: main.c.o
+src/bonus_fractals.o: src/bonus_fractals.c.o
 
-.PHONY : main.o
-
-# target to build an object file
-main.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/main.c.o
-.PHONY : main.c.o
-
-main.i: main.c.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/main.c.i
-.PHONY : main.c.i
-
-main.s: main.c.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/main.c.s
-.PHONY : main.c.s
-
-mandatory_fractals.o: mandatory_fractals.c.o
-
-.PHONY : mandatory_fractals.o
+.PHONY : src/bonus_fractals.o
 
 # target to build an object file
-mandatory_fractals.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandatory_fractals.c.o
-.PHONY : mandatory_fractals.c.o
+src/bonus_fractals.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.o
+.PHONY : src/bonus_fractals.c.o
 
-mandatory_fractals.i: mandatory_fractals.c.i
+src/bonus_fractals.i: src/bonus_fractals.c.i
 
-.PHONY : mandatory_fractals.i
+.PHONY : src/bonus_fractals.i
 
 # target to preprocess a source file
-mandatory_fractals.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandatory_fractals.c.i
-.PHONY : mandatory_fractals.c.i
+src/bonus_fractals.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.i
+.PHONY : src/bonus_fractals.c.i
 
-mandatory_fractals.s: mandatory_fractals.c.s
+src/bonus_fractals.s: src/bonus_fractals.c.s
 
-.PHONY : mandatory_fractals.s
+.PHONY : src/bonus_fractals.s
 
 # target to generate assembly for a file
-mandatory_fractals.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mandatory_fractals.c.s
-.PHONY : mandatory_fractals.c.s
+src/bonus_fractals.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.s
+.PHONY : src/bonus_fractals.c.s
 
-mouse_events.o: mouse_events.c.o
+src/clean.o: src/clean.c.o
 
-.PHONY : mouse_events.o
+.PHONY : src/clean.o
 
 # target to build an object file
-mouse_events.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mouse_events.c.o
-.PHONY : mouse_events.c.o
+src/clean.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/clean.c.o
+.PHONY : src/clean.c.o
 
-mouse_events.i: mouse_events.c.i
+src/clean.i: src/clean.c.i
 
-.PHONY : mouse_events.i
+.PHONY : src/clean.i
 
 # target to preprocess a source file
-mouse_events.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mouse_events.c.i
-.PHONY : mouse_events.c.i
+src/clean.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/clean.c.i
+.PHONY : src/clean.c.i
 
-mouse_events.s: mouse_events.c.s
+src/clean.s: src/clean.c.s
 
-.PHONY : mouse_events.s
+.PHONY : src/clean.s
 
 # target to generate assembly for a file
-mouse_events.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/mouse_events.c.s
-.PHONY : mouse_events.c.s
+src/clean.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/clean.c.s
+.PHONY : src/clean.c.s
 
-print.o: print.c.o
+src/colors.o: src/colors.c.o
 
-.PHONY : print.o
+.PHONY : src/colors.o
 
 # target to build an object file
-print.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/print.c.o
-.PHONY : print.c.o
+src/colors.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/colors.c.o
+.PHONY : src/colors.c.o
 
-print.i: print.c.i
+src/colors.i: src/colors.c.i
 
-.PHONY : print.i
+.PHONY : src/colors.i
 
 # target to preprocess a source file
-print.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/print.c.i
-.PHONY : print.c.i
+src/colors.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/colors.c.i
+.PHONY : src/colors.c.i
 
-print.s: print.c.s
+src/colors.s: src/colors.c.s
 
-.PHONY : print.s
+.PHONY : src/colors.s
 
 # target to generate assembly for a file
-print.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/print.c.s
-.PHONY : print.c.s
+src/colors.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/colors.c.s
+.PHONY : src/colors.c.s
 
-utils.o: utils.c.o
+src/drawing.o: src/drawing.c.o
 
-.PHONY : utils.o
+.PHONY : src/drawing.o
 
 # target to build an object file
-utils.c.o:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/utils.c.o
-.PHONY : utils.c.o
+src/drawing.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/drawing.c.o
+.PHONY : src/drawing.c.o
 
-utils.i: utils.c.i
+src/drawing.i: src/drawing.c.i
 
-.PHONY : utils.i
+.PHONY : src/drawing.i
 
 # target to preprocess a source file
-utils.c.i:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/utils.c.i
-.PHONY : utils.c.i
+src/drawing.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/drawing.c.i
+.PHONY : src/drawing.c.i
 
-utils.s: utils.c.s
+src/drawing.s: src/drawing.c.s
 
-.PHONY : utils.s
+.PHONY : src/drawing.s
 
 # target to generate assembly for a file
-utils.c.s:
-	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/utils.c.s
-.PHONY : utils.c.s
+src/drawing.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/drawing.c.s
+.PHONY : src/drawing.c.s
+
+src/fractal.o: src/fractal.c.o
+
+.PHONY : src/fractal.o
+
+# target to build an object file
+src/fractal.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/fractal.c.o
+.PHONY : src/fractal.c.o
+
+src/fractal.i: src/fractal.c.i
+
+.PHONY : src/fractal.i
+
+# target to preprocess a source file
+src/fractal.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/fractal.c.i
+.PHONY : src/fractal.c.i
+
+src/fractal.s: src/fractal.c.s
+
+.PHONY : src/fractal.s
+
+# target to generate assembly for a file
+src/fractal.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/fractal.c.s
+.PHONY : src/fractal.c.s
+
+src/init.o: src/init.c.o
+
+.PHONY : src/init.o
+
+# target to build an object file
+src/init.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/init.c.o
+.PHONY : src/init.c.o
+
+src/init.i: src/init.c.i
+
+.PHONY : src/init.i
+
+# target to preprocess a source file
+src/init.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/init.c.i
+.PHONY : src/init.c.i
+
+src/init.s: src/init.c.s
+
+.PHONY : src/init.s
+
+# target to generate assembly for a file
+src/init.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/init.c.s
+.PHONY : src/init.c.s
+
+src/init_norme.o: src/init_norme.c.o
+
+.PHONY : src/init_norme.o
+
+# target to build an object file
+src/init_norme.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/init_norme.c.o
+.PHONY : src/init_norme.c.o
+
+src/init_norme.i: src/init_norme.c.i
+
+.PHONY : src/init_norme.i
+
+# target to preprocess a source file
+src/init_norme.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/init_norme.c.i
+.PHONY : src/init_norme.c.i
+
+src/init_norme.s: src/init_norme.c.s
+
+.PHONY : src/init_norme.s
+
+# target to generate assembly for a file
+src/init_norme.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/init_norme.c.s
+.PHONY : src/init_norme.c.s
+
+src/key_events.o: src/key_events.c.o
+
+.PHONY : src/key_events.o
+
+# target to build an object file
+src/key_events.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/key_events.c.o
+.PHONY : src/key_events.c.o
+
+src/key_events.i: src/key_events.c.i
+
+.PHONY : src/key_events.i
+
+# target to preprocess a source file
+src/key_events.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/key_events.c.i
+.PHONY : src/key_events.c.i
+
+src/key_events.s: src/key_events.c.s
+
+.PHONY : src/key_events.s
+
+# target to generate assembly for a file
+src/key_events.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/key_events.c.s
+.PHONY : src/key_events.c.s
+
+src/key_utils.o: src/key_utils.c.o
+
+.PHONY : src/key_utils.o
+
+# target to build an object file
+src/key_utils.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/key_utils.c.o
+.PHONY : src/key_utils.c.o
+
+src/key_utils.i: src/key_utils.c.i
+
+.PHONY : src/key_utils.i
+
+# target to preprocess a source file
+src/key_utils.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/key_utils.c.i
+.PHONY : src/key_utils.c.i
+
+src/key_utils.s: src/key_utils.c.s
+
+.PHONY : src/key_utils.s
+
+# target to generate assembly for a file
+src/key_utils.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/key_utils.c.s
+.PHONY : src/key_utils.c.s
+
+src/main.o: src/main.c.o
+
+.PHONY : src/main.o
+
+# target to build an object file
+src/main.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/main.c.o
+.PHONY : src/main.c.o
+
+src/main.i: src/main.c.i
+
+.PHONY : src/main.i
+
+# target to preprocess a source file
+src/main.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/main.c.i
+.PHONY : src/main.c.i
+
+src/main.s: src/main.c.s
+
+.PHONY : src/main.s
+
+# target to generate assembly for a file
+src/main.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/main.c.s
+.PHONY : src/main.c.s
+
+src/mandatory_fractals.o: src/mandatory_fractals.c.o
+
+.PHONY : src/mandatory_fractals.o
+
+# target to build an object file
+src/mandatory_fractals.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.o
+.PHONY : src/mandatory_fractals.c.o
+
+src/mandatory_fractals.i: src/mandatory_fractals.c.i
+
+.PHONY : src/mandatory_fractals.i
+
+# target to preprocess a source file
+src/mandatory_fractals.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.i
+.PHONY : src/mandatory_fractals.c.i
+
+src/mandatory_fractals.s: src/mandatory_fractals.c.s
+
+.PHONY : src/mandatory_fractals.s
+
+# target to generate assembly for a file
+src/mandatory_fractals.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.s
+.PHONY : src/mandatory_fractals.c.s
+
+src/mouse_events.o: src/mouse_events.c.o
+
+.PHONY : src/mouse_events.o
+
+# target to build an object file
+src/mouse_events.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/mouse_events.c.o
+.PHONY : src/mouse_events.c.o
+
+src/mouse_events.i: src/mouse_events.c.i
+
+.PHONY : src/mouse_events.i
+
+# target to preprocess a source file
+src/mouse_events.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/mouse_events.c.i
+.PHONY : src/mouse_events.c.i
+
+src/mouse_events.s: src/mouse_events.c.s
+
+.PHONY : src/mouse_events.s
+
+# target to generate assembly for a file
+src/mouse_events.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/mouse_events.c.s
+.PHONY : src/mouse_events.c.s
+
+src/print.o: src/print.c.o
+
+.PHONY : src/print.o
+
+# target to build an object file
+src/print.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/print.c.o
+.PHONY : src/print.c.o
+
+src/print.i: src/print.c.i
+
+.PHONY : src/print.i
+
+# target to preprocess a source file
+src/print.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/print.c.i
+.PHONY : src/print.c.i
+
+src/print.s: src/print.c.s
+
+.PHONY : src/print.s
+
+# target to generate assembly for a file
+src/print.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/print.c.s
+.PHONY : src/print.c.s
+
+src/utils.o: src/utils.c.o
+
+.PHONY : src/utils.o
+
+# target to build an object file
+src/utils.c.o:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/utils.c.o
+.PHONY : src/utils.c.o
+
+src/utils.i: src/utils.c.i
+
+.PHONY : src/utils.i
+
+# target to preprocess a source file
+src/utils.c.i:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/utils.c.i
+.PHONY : src/utils.c.i
+
+src/utils.s: src/utils.c.s
+
+.PHONY : src/utils.s
+
+# target to generate assembly for a file
+src/utils.c.s:
+	$(MAKE) -f CMakeFiles/Fract_ol.dir/build.make CMakeFiles/Fract_ol.dir/src/utils.c.s
+.PHONY : src/utils.c.s
 
 # Help Target
 help:
@@ -2252,33 +2252,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... Fract_ol"
 	@echo "... ft"
-	@echo "... bonus_fractals.o"
-	@echo "... bonus_fractals.i"
-	@echo "... bonus_fractals.s"
-	@echo "... clean.o"
-	@echo "... clean.i"
-	@echo "... clean.s"
-	@echo "... colors.o"
-	@echo "... colors.i"
-	@echo "... colors.s"
-	@echo "... drawing.o"
-	@echo "... drawing.i"
-	@echo "... drawing.s"
-	@echo "... fractal.o"
-	@echo "... fractal.i"
-	@echo "... fractal.s"
-	@echo "... init.o"
-	@echo "... init.i"
-	@echo "... init.s"
-	@echo "... init_norme.o"
-	@echo "... init_norme.i"
-	@echo "... init_norme.s"
-	@echo "... key_events.o"
-	@echo "... key_events.i"
-	@echo "... key_events.s"
-	@echo "... key_utils.o"
-	@echo "... key_utils.i"
-	@echo "... key_utils.s"
 	@echo "... libft/ft_atoi.o"
 	@echo "... libft/ft_atoi.i"
 	@echo "... libft/ft_atoi.s"
@@ -2471,21 +2444,48 @@ help:
 	@echo "... libft/get_next_line.o"
 	@echo "... libft/get_next_line.i"
 	@echo "... libft/get_next_line.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... mandatory_fractals.o"
-	@echo "... mandatory_fractals.i"
-	@echo "... mandatory_fractals.s"
-	@echo "... mouse_events.o"
-	@echo "... mouse_events.i"
-	@echo "... mouse_events.s"
-	@echo "... print.o"
-	@echo "... print.i"
-	@echo "... print.s"
-	@echo "... utils.o"
-	@echo "... utils.i"
-	@echo "... utils.s"
+	@echo "... src/bonus_fractals.o"
+	@echo "... src/bonus_fractals.i"
+	@echo "... src/bonus_fractals.s"
+	@echo "... src/clean.o"
+	@echo "... src/clean.i"
+	@echo "... src/clean.s"
+	@echo "... src/colors.o"
+	@echo "... src/colors.i"
+	@echo "... src/colors.s"
+	@echo "... src/drawing.o"
+	@echo "... src/drawing.i"
+	@echo "... src/drawing.s"
+	@echo "... src/fractal.o"
+	@echo "... src/fractal.i"
+	@echo "... src/fractal.s"
+	@echo "... src/init.o"
+	@echo "... src/init.i"
+	@echo "... src/init.s"
+	@echo "... src/init_norme.o"
+	@echo "... src/init_norme.i"
+	@echo "... src/init_norme.s"
+	@echo "... src/key_events.o"
+	@echo "... src/key_events.i"
+	@echo "... src/key_events.s"
+	@echo "... src/key_utils.o"
+	@echo "... src/key_utils.i"
+	@echo "... src/key_utils.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/mandatory_fractals.o"
+	@echo "... src/mandatory_fractals.i"
+	@echo "... src/mandatory_fractals.s"
+	@echo "... src/mouse_events.o"
+	@echo "... src/mouse_events.i"
+	@echo "... src/mouse_events.s"
+	@echo "... src/print.o"
+	@echo "... src/print.i"
+	@echo "... src/print.s"
+	@echo "... src/utils.o"
+	@echo "... src/utils.i"
+	@echo "... src/utils.s"
 .PHONY : help
 
 

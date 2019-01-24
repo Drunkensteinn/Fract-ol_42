@@ -3,7 +3,7 @@ project(Fract_ol C)
 
 set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -lmlx -framework OpenGL -framework AppKit")
-set(SOURCE_FILES main.c fractol.h key_events.c drawing.c print.c init.c mandatory_fractals.c utils.c colors.c fractol_keys.h mouse_events.c bonus_fractals.c fractal.c clean.c key_utils.c init_norme.c)
+set(SOURCE_FILES src/main.c includes/fractol.h src/key_events.c src/drawing.c src/print.c src/init.c src/mandatory_fractals.c src/utils.c src/colors.c includes/fractol_keys.h src/mouse_events.c src/bonus_fractals.c src/fractal.c src/clean.c src/key_utils.c src/init_norme.c)
 
 aux_source_directory(libft LBFT_SRC)
 add_library(ft STATIC ${LBFT_SRC})

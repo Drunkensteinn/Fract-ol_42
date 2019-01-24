@@ -6,31 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/ablizniu/Documents/Fract-ol/bonus_fractals.c
-fractol.h
-/Users/ablizniu/Documents/Fract-ol/fractol.h
-
-/Users/ablizniu/Documents/Fract-ol/clean.c
-fractol.h
-/Users/ablizniu/Documents/Fract-ol/fractol.h
-
-/Users/ablizniu/Documents/Fract-ol/drawing.c
-fractol.h
-/Users/ablizniu/Documents/Fract-ol/fractol.h
-
-/Users/ablizniu/Documents/Fract-ol/fractol.h
-libft/libft.h
+/Users/ablizniu/Documents/Fract-ol/includes/fractol.h
+../libft/libft.h
 /Users/ablizniu/Documents/Fract-ol/libft/libft.h
 fractol_keys.h
-/Users/ablizniu/Documents/Fract-ol/fractol_keys.h
+/Users/ablizniu/Documents/Fract-ol/includes/fractol_keys.h
 mlx.h
-/Users/ablizniu/Documents/Fract-ol/mlx.h
+/Users/ablizniu/Documents/Fract-ol/includes/mlx.h
 math.h
 -
 pthread.h
-/Users/ablizniu/Documents/Fract-ol/pthread.h
+/Users/ablizniu/Documents/Fract-ol/includes/pthread.h
 
-/Users/ablizniu/Documents/Fract-ol/fractol_keys.h
+/Users/ablizniu/Documents/Fract-ol/includes/fractol_keys.h
 
 /Users/ablizniu/Documents/Fract-ol/libft/libft.h
 unistd.h
@@ -50,7 +38,11 @@ inttypes.h
 stdlib.h
 -
 
-/Users/ablizniu/Documents/Fract-ol/utils.c
-fractol.h
-/Users/ablizniu/Documents/Fract-ol/fractol.h
+/Users/ablizniu/Documents/Fract-ol/src/main.c
+../includes/fractol.h
+/Users/ablizniu/Documents/Fract-ol/includes/fractol.h
+
+/Users/ablizniu/Documents/Fract-ol/src/utils.c
+../includes/fractol.h
+/Users/ablizniu/Documents/Fract-ol/includes/fractol.h
 

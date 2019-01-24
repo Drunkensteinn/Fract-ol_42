@@ -122,37 +122,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/bonus_fractals.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/includes/fractol.h">
 			<Option target="Fract_ol"/>
 		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/clean.c">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/colors.c">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/drawing.c">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/fractal.c">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/fractol.h">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/fractol_keys.h">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/init.c">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/init_norme.c">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/key_events.c">
-			<Option target="Fract_ol"/>
-		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/key_utils.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/includes/fractol_keys.h">
 			<Option target="Fract_ol"/>
 		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/libft/ft_atoi.c">
@@ -347,19 +320,46 @@
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/libft/get_next_line.c">
 			<Option target="ft"/>
 		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/main.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/bonus_fractals.c">
 			<Option target="Fract_ol"/>
 		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/mandatory_fractals.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/clean.c">
 			<Option target="Fract_ol"/>
 		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/mouse_events.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/colors.c">
 			<Option target="Fract_ol"/>
 		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/print.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/drawing.c">
 			<Option target="Fract_ol"/>
 		</Unit>
-		<Unit filename="/Users/ablizniu/Documents/Fract-ol/utils.c">
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/fractal.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/init.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/init_norme.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/key_events.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/key_utils.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/main.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/mandatory_fractals.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/mouse_events.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/print.c">
+			<Option target="Fract_ol"/>
+		</Unit>
+		<Unit filename="/Users/ablizniu/Documents/Fract-ol/src/utils.c">
 			<Option target="Fract_ol"/>
 		</Unit>
 		<Unit filename="/Users/ablizniu/Documents/Fract-ol/CMakeLists.txt">

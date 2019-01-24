@@ -57,222 +57,222 @@ include CMakeFiles/Fract_ol.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Fract_ol.dir/flags.make
 
-CMakeFiles/Fract_ol.dir/main.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Fract_ol.dir/main.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/main.c.o   -c /Users/ablizniu/Documents/Fract-ol/main.c
+CMakeFiles/Fract_ol.dir/src/main.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/main.c.o: ../src/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Fract_ol.dir/src/main.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/main.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/main.c
 
-CMakeFiles/Fract_ol.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/main.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/main.c > CMakeFiles/Fract_ol.dir/main.c.i
+CMakeFiles/Fract_ol.dir/src/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/main.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/main.c > CMakeFiles/Fract_ol.dir/src/main.c.i
 
-CMakeFiles/Fract_ol.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/main.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/main.c -o CMakeFiles/Fract_ol.dir/main.c.s
+CMakeFiles/Fract_ol.dir/src/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/main.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/main.c -o CMakeFiles/Fract_ol.dir/src/main.c.s
 
-CMakeFiles/Fract_ol.dir/key_events.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/key_events.c.o: ../key_events.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Fract_ol.dir/key_events.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/key_events.c.o   -c /Users/ablizniu/Documents/Fract-ol/key_events.c
+CMakeFiles/Fract_ol.dir/src/key_events.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/key_events.c.o: ../src/key_events.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Fract_ol.dir/src/key_events.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/key_events.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/key_events.c
 
-CMakeFiles/Fract_ol.dir/key_events.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/key_events.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/key_events.c > CMakeFiles/Fract_ol.dir/key_events.c.i
+CMakeFiles/Fract_ol.dir/src/key_events.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/key_events.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/key_events.c > CMakeFiles/Fract_ol.dir/src/key_events.c.i
 
-CMakeFiles/Fract_ol.dir/key_events.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/key_events.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/key_events.c -o CMakeFiles/Fract_ol.dir/key_events.c.s
+CMakeFiles/Fract_ol.dir/src/key_events.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/key_events.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/key_events.c -o CMakeFiles/Fract_ol.dir/src/key_events.c.s
 
-CMakeFiles/Fract_ol.dir/drawing.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/drawing.c.o: ../drawing.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Fract_ol.dir/drawing.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/drawing.c.o   -c /Users/ablizniu/Documents/Fract-ol/drawing.c
+CMakeFiles/Fract_ol.dir/src/drawing.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/drawing.c.o: ../src/drawing.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Fract_ol.dir/src/drawing.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/drawing.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/drawing.c
 
-CMakeFiles/Fract_ol.dir/drawing.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/drawing.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/drawing.c > CMakeFiles/Fract_ol.dir/drawing.c.i
+CMakeFiles/Fract_ol.dir/src/drawing.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/drawing.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/drawing.c > CMakeFiles/Fract_ol.dir/src/drawing.c.i
 
-CMakeFiles/Fract_ol.dir/drawing.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/drawing.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/drawing.c -o CMakeFiles/Fract_ol.dir/drawing.c.s
+CMakeFiles/Fract_ol.dir/src/drawing.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/drawing.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/drawing.c -o CMakeFiles/Fract_ol.dir/src/drawing.c.s
 
-CMakeFiles/Fract_ol.dir/print.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/print.c.o: ../print.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Fract_ol.dir/print.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/print.c.o   -c /Users/ablizniu/Documents/Fract-ol/print.c
+CMakeFiles/Fract_ol.dir/src/print.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/print.c.o: ../src/print.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Fract_ol.dir/src/print.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/print.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/print.c
 
-CMakeFiles/Fract_ol.dir/print.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/print.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/print.c > CMakeFiles/Fract_ol.dir/print.c.i
+CMakeFiles/Fract_ol.dir/src/print.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/print.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/print.c > CMakeFiles/Fract_ol.dir/src/print.c.i
 
-CMakeFiles/Fract_ol.dir/print.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/print.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/print.c -o CMakeFiles/Fract_ol.dir/print.c.s
+CMakeFiles/Fract_ol.dir/src/print.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/print.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/print.c -o CMakeFiles/Fract_ol.dir/src/print.c.s
 
-CMakeFiles/Fract_ol.dir/init.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/init.c.o: ../init.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Fract_ol.dir/init.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/init.c.o   -c /Users/ablizniu/Documents/Fract-ol/init.c
+CMakeFiles/Fract_ol.dir/src/init.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/init.c.o: ../src/init.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Fract_ol.dir/src/init.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/init.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/init.c
 
-CMakeFiles/Fract_ol.dir/init.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/init.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/init.c > CMakeFiles/Fract_ol.dir/init.c.i
+CMakeFiles/Fract_ol.dir/src/init.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/init.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/init.c > CMakeFiles/Fract_ol.dir/src/init.c.i
 
-CMakeFiles/Fract_ol.dir/init.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/init.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/init.c -o CMakeFiles/Fract_ol.dir/init.c.s
+CMakeFiles/Fract_ol.dir/src/init.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/init.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/init.c -o CMakeFiles/Fract_ol.dir/src/init.c.s
 
-CMakeFiles/Fract_ol.dir/mandatory_fractals.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/mandatory_fractals.c.o: ../mandatory_fractals.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Fract_ol.dir/mandatory_fractals.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/mandatory_fractals.c.o   -c /Users/ablizniu/Documents/Fract-ol/mandatory_fractals.c
+CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.o: ../src/mandatory_fractals.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/mandatory_fractals.c
 
-CMakeFiles/Fract_ol.dir/mandatory_fractals.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/mandatory_fractals.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/mandatory_fractals.c > CMakeFiles/Fract_ol.dir/mandatory_fractals.c.i
+CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/mandatory_fractals.c > CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.i
 
-CMakeFiles/Fract_ol.dir/mandatory_fractals.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/mandatory_fractals.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/mandatory_fractals.c -o CMakeFiles/Fract_ol.dir/mandatory_fractals.c.s
+CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/mandatory_fractals.c -o CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.s
 
-CMakeFiles/Fract_ol.dir/utils.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/utils.c.o: ../utils.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Fract_ol.dir/utils.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/utils.c.o   -c /Users/ablizniu/Documents/Fract-ol/utils.c
+CMakeFiles/Fract_ol.dir/src/utils.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/utils.c.o: ../src/utils.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Fract_ol.dir/src/utils.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/utils.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/utils.c
 
-CMakeFiles/Fract_ol.dir/utils.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/utils.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/utils.c > CMakeFiles/Fract_ol.dir/utils.c.i
+CMakeFiles/Fract_ol.dir/src/utils.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/utils.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/utils.c > CMakeFiles/Fract_ol.dir/src/utils.c.i
 
-CMakeFiles/Fract_ol.dir/utils.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/utils.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/utils.c -o CMakeFiles/Fract_ol.dir/utils.c.s
+CMakeFiles/Fract_ol.dir/src/utils.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/utils.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/utils.c -o CMakeFiles/Fract_ol.dir/src/utils.c.s
 
-CMakeFiles/Fract_ol.dir/colors.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/colors.c.o: ../colors.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Fract_ol.dir/colors.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/colors.c.o   -c /Users/ablizniu/Documents/Fract-ol/colors.c
+CMakeFiles/Fract_ol.dir/src/colors.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/colors.c.o: ../src/colors.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Fract_ol.dir/src/colors.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/colors.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/colors.c
 
-CMakeFiles/Fract_ol.dir/colors.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/colors.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/colors.c > CMakeFiles/Fract_ol.dir/colors.c.i
+CMakeFiles/Fract_ol.dir/src/colors.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/colors.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/colors.c > CMakeFiles/Fract_ol.dir/src/colors.c.i
 
-CMakeFiles/Fract_ol.dir/colors.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/colors.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/colors.c -o CMakeFiles/Fract_ol.dir/colors.c.s
+CMakeFiles/Fract_ol.dir/src/colors.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/colors.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/colors.c -o CMakeFiles/Fract_ol.dir/src/colors.c.s
 
-CMakeFiles/Fract_ol.dir/mouse_events.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/mouse_events.c.o: ../mouse_events.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Fract_ol.dir/mouse_events.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/mouse_events.c.o   -c /Users/ablizniu/Documents/Fract-ol/mouse_events.c
+CMakeFiles/Fract_ol.dir/src/mouse_events.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/mouse_events.c.o: ../src/mouse_events.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Fract_ol.dir/src/mouse_events.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/mouse_events.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/mouse_events.c
 
-CMakeFiles/Fract_ol.dir/mouse_events.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/mouse_events.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/mouse_events.c > CMakeFiles/Fract_ol.dir/mouse_events.c.i
+CMakeFiles/Fract_ol.dir/src/mouse_events.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/mouse_events.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/mouse_events.c > CMakeFiles/Fract_ol.dir/src/mouse_events.c.i
 
-CMakeFiles/Fract_ol.dir/mouse_events.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/mouse_events.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/mouse_events.c -o CMakeFiles/Fract_ol.dir/mouse_events.c.s
+CMakeFiles/Fract_ol.dir/src/mouse_events.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/mouse_events.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/mouse_events.c -o CMakeFiles/Fract_ol.dir/src/mouse_events.c.s
 
-CMakeFiles/Fract_ol.dir/bonus_fractals.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/bonus_fractals.c.o: ../bonus_fractals.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Fract_ol.dir/bonus_fractals.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/bonus_fractals.c.o   -c /Users/ablizniu/Documents/Fract-ol/bonus_fractals.c
+CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.o: ../src/bonus_fractals.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/bonus_fractals.c
 
-CMakeFiles/Fract_ol.dir/bonus_fractals.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/bonus_fractals.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/bonus_fractals.c > CMakeFiles/Fract_ol.dir/bonus_fractals.c.i
+CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/bonus_fractals.c > CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.i
 
-CMakeFiles/Fract_ol.dir/bonus_fractals.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/bonus_fractals.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/bonus_fractals.c -o CMakeFiles/Fract_ol.dir/bonus_fractals.c.s
+CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/bonus_fractals.c -o CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.s
 
-CMakeFiles/Fract_ol.dir/fractal.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/fractal.c.o: ../fractal.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Fract_ol.dir/fractal.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/fractal.c.o   -c /Users/ablizniu/Documents/Fract-ol/fractal.c
+CMakeFiles/Fract_ol.dir/src/fractal.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/fractal.c.o: ../src/fractal.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Fract_ol.dir/src/fractal.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/fractal.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/fractal.c
 
-CMakeFiles/Fract_ol.dir/fractal.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/fractal.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/fractal.c > CMakeFiles/Fract_ol.dir/fractal.c.i
+CMakeFiles/Fract_ol.dir/src/fractal.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/fractal.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/fractal.c > CMakeFiles/Fract_ol.dir/src/fractal.c.i
 
-CMakeFiles/Fract_ol.dir/fractal.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/fractal.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/fractal.c -o CMakeFiles/Fract_ol.dir/fractal.c.s
+CMakeFiles/Fract_ol.dir/src/fractal.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/fractal.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/fractal.c -o CMakeFiles/Fract_ol.dir/src/fractal.c.s
 
-CMakeFiles/Fract_ol.dir/clean.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/clean.c.o: ../clean.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Fract_ol.dir/clean.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/clean.c.o   -c /Users/ablizniu/Documents/Fract-ol/clean.c
+CMakeFiles/Fract_ol.dir/src/clean.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/clean.c.o: ../src/clean.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Fract_ol.dir/src/clean.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/clean.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/clean.c
 
-CMakeFiles/Fract_ol.dir/clean.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/clean.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/clean.c > CMakeFiles/Fract_ol.dir/clean.c.i
+CMakeFiles/Fract_ol.dir/src/clean.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/clean.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/clean.c > CMakeFiles/Fract_ol.dir/src/clean.c.i
 
-CMakeFiles/Fract_ol.dir/clean.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/clean.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/clean.c -o CMakeFiles/Fract_ol.dir/clean.c.s
+CMakeFiles/Fract_ol.dir/src/clean.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/clean.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/clean.c -o CMakeFiles/Fract_ol.dir/src/clean.c.s
 
-CMakeFiles/Fract_ol.dir/key_utils.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/key_utils.c.o: ../key_utils.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Fract_ol.dir/key_utils.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/key_utils.c.o   -c /Users/ablizniu/Documents/Fract-ol/key_utils.c
+CMakeFiles/Fract_ol.dir/src/key_utils.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/key_utils.c.o: ../src/key_utils.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Fract_ol.dir/src/key_utils.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/key_utils.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/key_utils.c
 
-CMakeFiles/Fract_ol.dir/key_utils.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/key_utils.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/key_utils.c > CMakeFiles/Fract_ol.dir/key_utils.c.i
+CMakeFiles/Fract_ol.dir/src/key_utils.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/key_utils.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/key_utils.c > CMakeFiles/Fract_ol.dir/src/key_utils.c.i
 
-CMakeFiles/Fract_ol.dir/key_utils.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/key_utils.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/key_utils.c -o CMakeFiles/Fract_ol.dir/key_utils.c.s
+CMakeFiles/Fract_ol.dir/src/key_utils.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/key_utils.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/key_utils.c -o CMakeFiles/Fract_ol.dir/src/key_utils.c.s
 
-CMakeFiles/Fract_ol.dir/init_norme.c.o: CMakeFiles/Fract_ol.dir/flags.make
-CMakeFiles/Fract_ol.dir/init_norme.c.o: ../init_norme.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Fract_ol.dir/init_norme.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/init_norme.c.o   -c /Users/ablizniu/Documents/Fract-ol/init_norme.c
+CMakeFiles/Fract_ol.dir/src/init_norme.c.o: CMakeFiles/Fract_ol.dir/flags.make
+CMakeFiles/Fract_ol.dir/src/init_norme.c.o: ../src/init_norme.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ablizniu/Documents/Fract-ol/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Fract_ol.dir/src/init_norme.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Fract_ol.dir/src/init_norme.c.o   -c /Users/ablizniu/Documents/Fract-ol/src/init_norme.c
 
-CMakeFiles/Fract_ol.dir/init_norme.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/init_norme.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/init_norme.c > CMakeFiles/Fract_ol.dir/init_norme.c.i
+CMakeFiles/Fract_ol.dir/src/init_norme.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Fract_ol.dir/src/init_norme.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ablizniu/Documents/Fract-ol/src/init_norme.c > CMakeFiles/Fract_ol.dir/src/init_norme.c.i
 
-CMakeFiles/Fract_ol.dir/init_norme.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/init_norme.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/init_norme.c -o CMakeFiles/Fract_ol.dir/init_norme.c.s
+CMakeFiles/Fract_ol.dir/src/init_norme.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Fract_ol.dir/src/init_norme.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ablizniu/Documents/Fract-ol/src/init_norme.c -o CMakeFiles/Fract_ol.dir/src/init_norme.c.s
 
 # Object files for target Fract_ol
 Fract_ol_OBJECTS = \
-"CMakeFiles/Fract_ol.dir/main.c.o" \
-"CMakeFiles/Fract_ol.dir/key_events.c.o" \
-"CMakeFiles/Fract_ol.dir/drawing.c.o" \
-"CMakeFiles/Fract_ol.dir/print.c.o" \
-"CMakeFiles/Fract_ol.dir/init.c.o" \
-"CMakeFiles/Fract_ol.dir/mandatory_fractals.c.o" \
-"CMakeFiles/Fract_ol.dir/utils.c.o" \
-"CMakeFiles/Fract_ol.dir/colors.c.o" \
-"CMakeFiles/Fract_ol.dir/mouse_events.c.o" \
-"CMakeFiles/Fract_ol.dir/bonus_fractals.c.o" \
-"CMakeFiles/Fract_ol.dir/fractal.c.o" \
-"CMakeFiles/Fract_ol.dir/clean.c.o" \
-"CMakeFiles/Fract_ol.dir/key_utils.c.o" \
-"CMakeFiles/Fract_ol.dir/init_norme.c.o"
+"CMakeFiles/Fract_ol.dir/src/main.c.o" \
+"CMakeFiles/Fract_ol.dir/src/key_events.c.o" \
+"CMakeFiles/Fract_ol.dir/src/drawing.c.o" \
+"CMakeFiles/Fract_ol.dir/src/print.c.o" \
+"CMakeFiles/Fract_ol.dir/src/init.c.o" \
+"CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.o" \
+"CMakeFiles/Fract_ol.dir/src/utils.c.o" \
+"CMakeFiles/Fract_ol.dir/src/colors.c.o" \
+"CMakeFiles/Fract_ol.dir/src/mouse_events.c.o" \
+"CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.o" \
+"CMakeFiles/Fract_ol.dir/src/fractal.c.o" \
+"CMakeFiles/Fract_ol.dir/src/clean.c.o" \
+"CMakeFiles/Fract_ol.dir/src/key_utils.c.o" \
+"CMakeFiles/Fract_ol.dir/src/init_norme.c.o"
 
 # External object files for target Fract_ol
 Fract_ol_EXTERNAL_OBJECTS =
 
-Fract_ol: CMakeFiles/Fract_ol.dir/main.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/key_events.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/drawing.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/print.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/init.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/mandatory_fractals.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/utils.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/colors.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/mouse_events.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/bonus_fractals.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/fractal.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/clean.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/key_utils.c.o
-Fract_ol: CMakeFiles/Fract_ol.dir/init_norme.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/main.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/key_events.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/drawing.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/print.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/init.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/mandatory_fractals.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/utils.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/colors.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/mouse_events.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/bonus_fractals.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/fractal.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/clean.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/key_utils.c.o
+Fract_ol: CMakeFiles/Fract_ol.dir/src/init_norme.c.o
 Fract_ol: CMakeFiles/Fract_ol.dir/build.make
 Fract_ol: libft.a
 Fract_ol: CMakeFiles/Fract_ol.dir/link.txt
